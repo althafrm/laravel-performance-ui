@@ -20,6 +20,6 @@
     ```
 - Serve application on port `8000`
     ```bash
-    php artisan serve --port=8001
+    php artisan serve --port=8000
     ```
 - Access application within browser on URL `http://localhost:8000/`
