@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+}
+
+.container {
+    height: 100%;
+}
+
+#message {
+    position: absolute;
+    width: 40vw;
+    top: 40px;
+}
